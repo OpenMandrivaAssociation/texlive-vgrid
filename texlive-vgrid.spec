@@ -6,7 +6,7 @@
 # catalog-version 0.1
 Name:		texlive-vgrid
 Version:	0.1
-Release:	4
+Release:	5
 Summary:	Overlay a grid on the printed page
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/vgrid
