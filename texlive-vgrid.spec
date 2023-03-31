@@ -1,6 +1,6 @@
 Name:		texlive-vgrid
 Version:	32457
-Release:	1
+Release:	2
 Summary:	Overlay a grid on the printed page
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/vgrid
