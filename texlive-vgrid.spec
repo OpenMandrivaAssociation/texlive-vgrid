@@ -3,7 +3,7 @@ Version:	32457
 Release:	2
 Summary:	Overlay a grid on the printed page
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/vgrid
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/vgrid
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/vgrid.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/vgrid.doc.r%{version}.tar.xz
